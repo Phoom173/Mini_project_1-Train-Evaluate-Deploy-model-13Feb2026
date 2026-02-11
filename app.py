@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import numpy as np
-import pandas as pd
 
 # 1. ตั้งค่าหัวข้อหน้าเว็บ
 st.set_page_config(page_title="Graduate Admission Predictor", layout="centered")
